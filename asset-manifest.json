@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/destiny-icons/static/css/main.befa693b.chunk.css",
+    "main.js": "/destiny-icons/static/js/main.a6e9dae6.chunk.js",
+    "main.js.map": "/destiny-icons/static/js/main.a6e9dae6.chunk.js.map",
+    "runtime-main.js": "/destiny-icons/static/js/runtime-main.84f0d138.js",
+    "runtime-main.js.map": "/destiny-icons/static/js/runtime-main.84f0d138.js.map",
+    "static/js/2.94bdff74.chunk.js": "/destiny-icons/static/js/2.94bdff74.chunk.js",
+    "static/js/2.94bdff74.chunk.js.map": "/destiny-icons/static/js/2.94bdff74.chunk.js.map",
+    "index.html": "/destiny-icons/index.html",
+    "precache-manifest.bd7528c524ce515d7cb11d6e643745fc.js": "/destiny-icons/precache-manifest.bd7528c524ce515d7cb11d6e643745fc.js",
+    "service-worker.js": "/destiny-icons/service-worker.js",
+    "static/css/main.befa693b.chunk.css.map": "/destiny-icons/static/css/main.befa693b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f0d138.js",
+    "static/js/2.94bdff74.chunk.js",
+    "static/css/main.befa693b.chunk.css",
+    "static/js/main.a6e9dae6.chunk.js"
+  ]
+}
