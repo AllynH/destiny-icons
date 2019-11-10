@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04745ae3368f1b0bace156762ee6bc5b",
+    "revision": "83d05b5f4a4602eb45e70e34d9700aba",
     "url": "/destiny-icons/index.html"
   },
   {
