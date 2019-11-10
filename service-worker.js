@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/destiny-icons/precache-manifest.023326305876912f16e99621383d8b46.js"
+  "/destiny-icons/precache-manifest.886cb16be5739e2c53d244c799570a57.js"
 );
 
 self.addEventListener('message', (event) => {
